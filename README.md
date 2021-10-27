@@ -4,8 +4,14 @@ Machine vision is a technology that enables automatic inspection and analysis fo
 ## OpenCV Python
 OpenCV is a huge open-source library for computer vision, machine learning, and image processing. OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. It can process images and videos to identify objects, faces, or even the handwriting of a human. When it is integrated with various libraries, such as Numpy which is a highly optimized library for numerical operations, then the number of weapons increases in your Arsenal i.e whatever operations one can do in Numpy can be combined with OpenCV. This OpenCV tutorial will help you learn the Image-processing from Basics to Advance, like operations on Images, Videos using a huge set of Opencv-programs and projects.
 
-
 ## About this project
 In this project, we have tried to display some opencv capabilities in the form of a project.
+The capabilities of this program include the following:
+Face detection with opencv haar cascade
+Face detection with cascade classifier Training
+Face detection with SVM
+Face recognition using LBPHFaceRecognizer
+Humans detection with opencv haar cascade
+Pre-processing of frames
 
 ## Video of how the program works
