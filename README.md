@@ -16,3 +16,5 @@ Pre-processing of frames
 
 ## Video of how the program works
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/XdQ6Uc5sDwc/mq3.jpg?sqp=CJTl9IsG&rs=AOn4CLBwt06JvfRc1U2kUctz9ux8pP-bTQ)](https://youtu.be/XdQ6Uc5sDwc)
+
+[![Everything Is AWESOME](https://i9.ytimg.com/vi/XdQ6Uc5sDwc/mq3.jpg?sqp=CJTl9IsG&rs=AOn4CLBwt06JvfRc1U2kUctz9ux8pP-bTQ)](https://youtu.be/XdQ6Uc5sDwc"Everything Is AWESOME")
