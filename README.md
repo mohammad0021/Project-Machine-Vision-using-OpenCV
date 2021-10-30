@@ -15,12 +15,8 @@ Humans detection with opencv haar cascade
 Pre-processing of frames
 
 ## Video of how the program works
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/XdQ6Uc5sDwc/mq3.jpg?sqp=CJTl9IsG&rs=AOn4CLBwt06JvfRc1U2kUctz9ux8pP-bTQ)](https://youtu.be/XdQ6Uc5sDwc)
-
-[![Everything Is AWESOME](https://i9.ytimg.com/vi/XdQ6Uc5sDwc/mq3.jpg?sqp=CJTl9IsG&rs=AOn4CLBwt06JvfRc1U2kUctz9ux8pP-bTQ)](https://youtu.be/XdQ6Uc5sDwc"Everything Is AWESOME")
-
 <div align="left">
-      <a href="https://www.youtube.com/watch?v=5yLzZikS15k">
-         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
+      <a href="https://youtu.be/XdQ6Uc5sDwc">
+         <img src="https://i9.ytimg.com/vi_webp/XdQ6Uc5sDwc/mqdefault.webp?v=617d35d4&sqp=CJjs9IsG&rs=AOn4CLCSryfGuV7CKAivjOu3nxiB93IWMQ" style="width:75%;">
       </a>
 </div>
