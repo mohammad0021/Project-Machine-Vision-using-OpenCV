@@ -17,9 +17,14 @@ Pre-processing of frames
 ## Video of how the program works
 [![Project](https://i.ytimg.com/vi_webp/XdQ6Uc5sDwc/maxresdefault.webp)](https://youtu.be/XdQ6Uc5sDwc)
 
-### Model Evaluation Results
+## Model Evaluation Results
 ![Screenshot from 2021-10-30 15-50-37](https://user-images.githubusercontent.com/34937551/139532724-ca6d91bb-31e5-45b2-ba01-546ac83eca60.png)
 
-### Dataset
+## Dataset
 ![Screenshot from 2021-10-30 15-51-32](https://user-images.githubusercontent.com/34937551/139532740-acb8091d-e01b-441d-9802-7d621043f834.png)
 ![Screenshot from 2021-10-30 15-51-52](https://user-images.githubusercontent.com/34937551/139532742-6e1ddc54-8b96-43a5-92fe-e8ffffdb8e80.png)
+
+## System specification
+- CPU :   Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz
+- GPU : NVIDIA - GF108M [GeForce GT 620M]
+- Memory : 6GiB - SODIMM DDR3 Synchronous 1600 MHz (0.6 ns)
